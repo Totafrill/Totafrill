@@ -17,6 +17,9 @@ Oto kilka projektów, które mogą Cię zainteresować:
 Projekt aplikacji na smartphone z systemem Android, która pozwala na nawigacje w budynku. W tym projekcie byłem odpowiedzialny za wyświetlanie mapy budynku z danych z serwera OpenStreetMap w aplikacji oraz odwzorowanie całego budynku na OpenStreetMap wewnątrz. Poniżej linki do prezentacji projektu oraz części aplikacji, za które byłem w części odpowiedzialny: 
 [Prezentacja](https://umkt-my.sharepoint.com/:p:/g/personal/296735_o365_stud_umk_pl/EfAjWuVbc9FFq2ON9bT4tmUB_VdQsaUJP-z1HadTK4hfvg?e=JRRhpL), [Aplikacja developerska](https://github.com/Nawigacja-PO-UMK/aplikacja_deweloperska), [Aplikacja kliencka](https://github.com/Nawigacja-PO-UMK/aplikacja_kliencka-)
 
+(projekty własne)
+- [Odtwarzacz muzyki](https://github.com/Totafrill/Odtwarzacz-muzyki)
+-Projektem jest odtwarzacz muzyki, aplikacja desktopowa w Java. Jest to prosta aplikacja, która pozwala dodawać utwór do listy, przechodzić między utworami na liście oraz wizualnie czas odtwarzania utworu i jego tytuł.
 
 ## Kontakt
 
