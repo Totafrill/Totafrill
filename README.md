@@ -11,7 +11,6 @@ Jestem programistą Java, i cieszę się, że tu jesteś. Oto kilka informacji o
 ## Projekty
 
 Oto kilka projektów, które mogą Cię zainteresować: 
-
 (projekty związane z studiami)
 - [Open-navi-cation]([link_do_projektu1](https://github.com/Nawigacja-PO-UMK)): Projekt aplikacji na telefon z systemem Android,
 która pozwala na nawigacje w budynku. W tym projekcie byłem odpowiedzialny za wyświetlanie mapy budynku z danych z serwera
