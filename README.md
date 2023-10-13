@@ -12,7 +12,7 @@ Jestem programistą Java, i cieszę się, że tu jesteś. Oto kilka informacji o
 
 Oto kilka projektów, które mogą Cię zainteresować: 
 
-(projekty związane z studiami)
+(projekty związane ze studiami)
 - [Open-navi-cation](https://github.com/Nawigacja-PO-UMK)
 
 Projekt aplikacji na smartphone z systemem Android, która pozwala na nawigacje w budynku.
