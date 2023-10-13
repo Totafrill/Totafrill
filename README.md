@@ -14,4 +14,4 @@ Oto kilka projektów, które mogą Cię zainteresować:
 
 ## Kontakt
 
-- 📫 Możesz skontaktować się ze mną poprzez [adres email](patryk.czajkowski.214@gmail.com).
+- 📫 Możesz skontaktować się ze mną poprzez [adres email](mailto:patryk.czajkowski.214@gmail.com).
