@@ -21,7 +21,7 @@ W tym projekcie byłem odpowiedzialny za wyświetlanie mapy budynku z danych z s
 
 Poniżej linki do prezentacji projektu, mapy w OpenStreetMap oraz części aplikacji, za które byłem w części odpowiedzialny: 
 
-[Prezentacja](https://umkt-my.sharepoint.com/:p:/g/personal/296735_o365_stud_umk_pl/EfAjWuVbc9FFq2ON9bT4tmUB_VdQsaUJP-z1HadTK4hfvg?e=JRRhpL), [Mapa budynku](https://openlevelup.net/?l=0#20/53.01725/18.60306), [Aplikacja developerska](https://github.com/Nawigacja-PO-UMK/aplikacja_deweloperska), ) [Aplikacja kliencka](https://github.com/Nawigacja-PO-UMK/aplikacja_kliencka-)
+[Prezentacja](https://umkt-my.sharepoint.com/:p:/g/personal/296735_o365_stud_umk_pl/EfAjWuVbc9FFq2ON9bT4tmUB_VdQsaUJP-z1HadTK4hfvg?e=JRRhpL), [Mapa budynku](https://openlevelup.net/?l=0#20/53.01725/18.60306), [Aplikacja developerska](https://github.com/Nawigacja-PO-UMK/aplikacja_deweloperska), [Aplikacja kliencka](https://github.com/Nawigacja-PO-UMK/aplikacja_kliencka-)
 
 (projekty własne)
 - [Odtwarzacz muzyki](https://github.com/Totafrill/Odtwarzacz-muzyki)
