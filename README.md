@@ -1,18 +1,17 @@
-### Hi there 👋
+# Witaj na moim profilu GitHub!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Totafrill)](https://github.com/Totafrill)
+Jestem Patryk Czakowski, programistą Java, i cieszę się, że tu jesteś. Oto kilka informacji o mnie i mojej działalności na GitHub:
 
-<!--
-**Totafrill/Totafrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## O mnie
 
-Here are some ideas to get you started:
+- 🚀 Aktualnie programuje w języki Java, C# oraz Python.
+- 🌱 Zawsze uczę się nowych rzeczy i rozwijam swoje umiejętności w dziedzinie Java i innych technologii z nią związanych.
+- 💬 Chętnie rozmawiam o kodzie, projektach i technologiach, więc nie krępuj się napisać do mnie!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projekty
+
+Oto kilka projektów, które mogą Cię zainteresować:
+
+## Kontakt
+
+- 📫 Możesz skontaktować się ze mną poprzez [adres email](patryk.czajkowski.214@gmail.com).
