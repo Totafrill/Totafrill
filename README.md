@@ -25,7 +25,8 @@ Poniżej linki do prezentacji projektu, mapy w OpenStreetMap oraz części aplik
 
 (projekty własne)
 - [Odtwarzacz muzyki](https://github.com/Totafrill/Odtwarzacz-muzyki)
--Projektem jest odtwarzacz muzyki, aplikacja desktopowa w Java. Jest to prosta aplikacja, która pozwala dodawać utwór do listy, przechodzić między utworami na liście oraz wizualnie czas odtwarzania utworu i jego tytuł.
+
+Projektem jest odtwarzacz muzyki, aplikacja desktopowa w Java. Jest to prosta aplikacja, która pozwala dodawać utwór do listy, przechodzić między utworami na liście oraz wizualnie czas odtwarzania utworu i jego tytuł.
 
 ## Kontakt
 
