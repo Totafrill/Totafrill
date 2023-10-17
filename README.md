@@ -23,7 +23,7 @@ Poniżej linki do prezentacji projektu, mapy w OpenStreetMap oraz części aplik
 
 [Prezentacja](https://umkt-my.sharepoint.com/:p:/g/personal/296735_o365_stud_umk_pl/EfAjWuVbc9FFq2ON9bT4tmUB_VdQsaUJP-z1HadTK4hfvg?e=JRRhpL), [Mapa budynku](https://openlevelup.net/?l=0#20/53.01725/18.60306), [Aplikacja developerska](https://github.com/Nawigacja-PO-UMK/aplikacja_deweloperska), [Aplikacja kliencka](https://github.com/Nawigacja-PO-UMK/aplikacja_kliencka-)
 
-- [Algorytmy symulowanego wyżarzania i genetyczny](https://github.com/AI_Harmonogramy)
+- [Algorytmy symulowanego wyżarzania i genetyczny](https://github.com/Totafrill/AI_Harmonogramy)
 
 Projekt implementacji symulowanego wyżarzania i algorytmu genetycznego do rozwiązania problemu harmonogramu.
 
