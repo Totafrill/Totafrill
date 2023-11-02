@@ -32,9 +32,9 @@ Projekt implementacji symulowanego wyżarzania i algorytmu genetycznego do rozwi
 
 Projektem jest odtwarzacz muzyki, aplikacja desktopowa w Java. Jest to prosta aplikacja, która pozwala dodawać utwór do listy, przechodzić między utworami na liście oraz wizualnie czas odtwarzania utworu i jego tytuł.
 
-- [Odtwarzacz muzyki](https://github.com/Totafrill/Odtwarzacz-muzyki)
 
 - [Choinka](https://github.com/Totafrill/Choinka_aplikacja_Windows)
+- 
 Projekt aplikacji Windows, testujący różne funkcje.
 
 ## Kontakt
