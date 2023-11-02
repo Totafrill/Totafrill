@@ -34,8 +34,9 @@ Projektem jest odtwarzacz muzyki, aplikacja desktopowa w Java. Jest to prosta ap
 
 - [Odtwarzacz muzyki](https://github.com/Totafrill/Odtwarzacz-muzyki)
 
--[Choinka](https://github.com/Totafrill/Choinka_aplikacja_Windows)
+- [Choinka](https://github.com/Totafrill/Choinka_aplikacja_Windows)
 Projekt aplikacji Windows, testujący różne funkcje.
+
 ## Kontakt
 
 - 📫 Możesz skontaktować się ze mną poprzez [adres email](mailto:patryk.czajkowski.214@gmail.com).
