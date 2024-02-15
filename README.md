@@ -1,6 +1,6 @@
 # Witaj na moim profilu GitHub!
 
-Jestem programistą Java, i cieszę się, że tu jesteś. Oto kilka informacji o mnie i mojej działalności na GitHub:
+Jestem programistą, i cieszę się, że tu jesteś. Oto kilka informacji o mnie i mojej działalności na GitHub:
 
 ## O mnie
 
