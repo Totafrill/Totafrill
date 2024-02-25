@@ -13,6 +13,9 @@ Jestem programistą, i cieszę się, że tu jesteś. Oto kilka informacji o mnie
 Oto kilka projektów, które mogą Cię zainteresować: 
 
 (projekty związane ze studiami)
+- [Kaleidoscope Colorization](https://github.com/Totafrill/Kaleidoscope_Colorization_Project)
+Aplikacja webowa. Wykorzystując model głębokiej sztucznej sieci neuronowej, pozwala użytkownikom uzyskać wyniki bardzo zbliżone do rzeczywistości w znacznie krótszym czasie w porównaniu z ręcznym kolorowaniem. Aby zapewnić dokładniejszą demonstrację funkcjonalności aplikacji, przeszkolono wiele modeli w zakresie lepszego kolorowania zdjęć na podstawie ich kategorii treści.
+
 - [Open-navi-cation](https://github.com/Nawigacja-PO-UMK)
 
 Projekt aplikacji na smartphone z systemem Android, która pozwala na nawigacje w budynku.
